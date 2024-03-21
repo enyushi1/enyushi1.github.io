@@ -16,7 +16,7 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-1. [Dec/2023] Our paper titled ["A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"](https://zhewang7725.github.io/zhewang.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf) is accepted by **IEEE Communications Surveys & Tutorials** (IF: 35.6, Q1), which is the highest one in all IEEE journals/magazines!
+1. **[Dec.2023]** Our paper titled ["A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"](https://zhewang7725.github.io/zhewang.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf) is accepted by **IEEE Communications Surveys & Tutorials** (IF: 35.6, Q1), which is the highest one in all IEEE journals/magazines!
 2. [Nov/2023] I start my new journey at the School of Computer Science and Engineering, Nanyang Technological University, Singapore, as a visiting Ph.D. Student.
 3. [Oct/2023] I am honored to receive the <font color=blue>National Scholarship for Doctoral Students</font>!
 4. [May/2023] I am honored to receive the <font color=blue>ICC 2023 Best Paper Awards</font>!
