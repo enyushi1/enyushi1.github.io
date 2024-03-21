@@ -1,13 +1,30 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhe Wang （王者）"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am pursuing my Ph.D. degree with the [School of Electronic and Information Engineering] (http://eie.bjtu.edu.cn/), Beijing Jiaotong University, China, since Sep/2020. My supervisor is Prof. [Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/). Since Nov/2023, I have been a visiting Ph.D. student at the School of Computer Science and Engineering, Nanyang Technological University, Singapore. The supervisor during my visiting time at Nanyang Technological University is Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/).
+
+My research primarily focuses on next-generation MIMO technology, including **extremely large-scale MIMO (XL-MIMO)** and **cell-free massive MIMO (CF mMIMO)**. Our key objective is to explore <font color=red>"performance analysis and efficient design for next-generation MIMO systems"</font>. If you are interested in our work, you can refer to this [repository](https://github.com/BJTU-MIMO) and WeChat official account (ID: BJTU MIMO) for the latest updates of our group!
+
+If you have any questions or have an interest in collaborating with me, please feel free to email me (zhewang_77@bjtu.edu.cn)!
+
+
+
+the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can be used to improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse. Please refer to this [repository](https://hongyangdu.github.io/DLab/) for the latest updates of Generative AI-related papers from our group!
+
+
+
+I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2022, the impact factor of IEEE COMST reached 35.6, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
+
+My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can be used to improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse. Please refer to this [repository](https://hongyangdu.github.io/DLab/) for the latest updates of Generative AI-related papers from our group!
+
+Individually, our strength may have its limits; collectively, our potential is boundless. **If you are interested in collaborating with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from different minds ^_^!
+
 
 A data-driven personal website
 ======
