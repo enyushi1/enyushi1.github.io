@@ -15,16 +15,6 @@ If you have any questions or have an interest in collaborating with me, please f
 
 
 
-the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can be used to improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse. Please refer to this [repository](https://hongyangdu.github.io/DLab/) for the latest updates of Generative AI-related papers from our group!
-
-
-
-I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2022, the impact factor of IEEE COMST reached 35.6, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
-
-My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can be used to improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse. Please refer to this [repository](https://hongyangdu.github.io/DLab/) for the latest updates of Generative AI-related papers from our group!
-
-Individually, our strength may have its limits; collectively, our potential is boundless. **If you are interested in collaborating with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from different minds ^_^!
-
 
 A data-driven personal website
 ======
