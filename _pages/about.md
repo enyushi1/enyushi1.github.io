@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhe Wang （王者）"
+title: "Zhe Wang (王者)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,5 +17,5 @@ If you have any questions or have an interest in collaborating with me, please f
 News
 ======
 1. [Nov/2023] I start my new journey at the joined the School of Computer Science and Engineering, Nanyang Technological University, Singapore, as a visiting Ph.D. Student.
-2.  I am honored to receive the ICC 2023 Best Paper Awards
-3.  [Sep/2020] I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate. 
+2. [May/2023] I am honored to receive the <font color=blue>ICC 2023 Best Paper Awards</font>!
+3. [Sep/2020] I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate. 
