@@ -13,14 +13,13 @@ My research primarily focuses on next-generation MIMO technology, including **ex
 
 If you have any questions or have an interest in collaborating with me, please feel free to email me (zhewang_77@bjtu.edu.cn)!
 
-<br/> <i> Invited paper<i>
 
 News
 ======
-1. **[Dec. 2023]** Our paper titled ["A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"](https://zhewang7725.github.io/zhewang.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf) is accepted by **IEEE Communications Surveys & Tutorials** (IF: 35.6, Q1), which is the highest one in all IEEE journals/magazines!
+1. **[Dec. 2023]** Our paper titled ["A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"](https://zhewang7725.github.io/zhewang.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf) is accepted by <br/> <i>**IEEE Communications Surveys & Tutorials**<i> (IF: 35.6, Q1), which is the highest one in all IEEE journals/magazines!
 2. **[Nov. 2023]** I start my new journey at the School of Computer Science and Engineering, Nanyang Technological University, Singapore, as a visiting Ph.D. Student.
 3. **[Oct. 2023]** I am honored to receive the <font color=blue>National Scholarship for Doctoral Students</font>!
-4. **[May. 2023]** I am honored to receive the <font color=blue>ICC 2023 Best Paper Awards</font>!
+4. **[May 2023]** I am honored to receive the <font color=blue>ICC 2023 Best Paper Awards</font>!
 5. **[Apr. 2023]** Our paper titled ["Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions"](https://zhewang7725.github.io/zhewang.github.io/files/Extremely Large-Scale MIMO Fundamentals, Challenges, Solutions, and Future Directions.pdf) is accepted by **IEEE Wireless Communications** (IF: 12.9, Q1).
 6. **[Dec. 2022]** Our paper titled ["Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE"](https://zhewang7725.github.io/zhewang.github.io/files/Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE.pdf) is accepted by **IEEE Transactions on Communications** (IF: 8.3, Q1).
 7. **[Feb. 2022]** Our paper titled ["Uplink Performance of Cell-Free Massive MIMO with Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels"](https://zhewang7725.github.io/zhewang.github.io/files/Uplink Performance of Cell-Free Massive MIMO with Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels.pdf) is accepted by **IEEE Transactions on Communications** (IF: 10.4, Q1).
