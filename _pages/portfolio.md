@@ -11,5 +11,5 @@ Some award certificates are presented.
 
 
 {% for post in site.portfolio %}
-  {% include archive-single1.html %}
+  {% include archive-single2.html %}
 {% endfor %}
