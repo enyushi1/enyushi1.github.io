@@ -217,6 +217,9 @@ collections:
   submitted:
     output: true
     permalink: /:collection/:path/
+  award:
+    output: true
+    permalink: /:collection/:path/    
 
 # Defaults
 defaults:
@@ -275,6 +278,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _award
+  - scope:
+      path: ""
+      type: award
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true    
   # _talks
   - scope:
       path: ""
