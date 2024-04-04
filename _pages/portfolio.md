@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+Some award certificates are presented.
+
 {% include base_path %}
 
 
