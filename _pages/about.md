@@ -73,7 +73,7 @@ Awards
 2. **IEEE ICC 2023 Best Paper Awards**, IEEE ComSoc, 2023
 3. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling , Association of Chinese Graduate Education, 2023
 4. **First Prize** in the 17th China Graduate Electronics Design Contest  , Association of Chinese Graduate Education, 2022
-5. **Sino Education Fund Scholarship**, Beijing Jiaotong University, 2022 
+5. **SiNuo Education Fund Scholarship**, Beijing Jiaotong University, 2022 
 6. **National Scholarship**, Ministry of Education of China, 2020
 
 
