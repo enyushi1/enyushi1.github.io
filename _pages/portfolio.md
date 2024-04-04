@@ -9,5 +9,5 @@ author_profile: true
 
 
 {% for post in site.portfolio %}
-  {% include archive-single2.html %}
+  {% include archive-single1.html %}
 {% endfor %}
