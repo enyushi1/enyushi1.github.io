@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Published Papers"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+Please click on the paper title to view the free download link and short summary.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
