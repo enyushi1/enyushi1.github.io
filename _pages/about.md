@@ -28,10 +28,10 @@ News
 
 Submitted Papers
 ======
+1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision,"](https://arxiv.org/abs/2404.08878) submitted, 2024.
 1. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Hongyang Du, Dusit Niyato, Bo Ai, and Derrick Wing Kwan Ng, ["Analytical Framework for Effective Degrees of
 Freedom in Near-Field XL-MIMO,"](https://arxiv.org/abs/2401.15280) submitted, 2024.
 2. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Huahua Xiao, Dusit Niyato, and Bo Ai, "Effective Degree of Freedom for Near-Field Plane-Based XL-MIMO with Tri-Polarization," submitted, 2024.
-3. Haiquan Lu, Yong Zeng, Changsheng You, Yu Han, Jiayi Zhang, **Zhe Wang**, Zhenjun Dong, Shi Jin, Cheng-Xiang Wang, Tao Jiang, Xiaohu You, and Rui Zhang, ["A Tutorial on Near-Field XL-MIMO Communications Towards 6G,"](https://arxiv.org/abs/2310.11044) submitted to ***IEEE Communications Surveys & Tutorials*** (IF: 35.6, An1), Minor Revision, 2024.
 4. Bokai Xu, Jiayi Zhang, Hongyang Du, **Zhe Wang**, Yuanwei Liu, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Resource Allocation for Near-Field Communications: Fundamentals, Tools, and Outlooks,"](https://arxiv.org/abs/2310.17868) submitted to ***IEEE Wireless Communications*** (IF: 12.9, An1), Minor Revision, 2023.
 
 
@@ -61,6 +61,7 @@ Co-Supervised Papers
 Collaborative Papers
 ======
 **For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
+3. Haiquan Lu, Yong Zeng, Changsheng You, Yu Han, Jiayi Zhang, **Zhe Wang**, Zhenjun Dong, Shi Jin, Cheng-Xiang Wang, Tao Jiang, Xiaohu You, and Rui Zhang, ["A Tutorial on Near-Field XL-MIMO Communications Towards 6G,"](https://arxiv.org/abs/2310.11044)  ***IEEE Communications Surveys & Tutorials*** (IF: 35.6, An1), accepted, 2024.
 1. Zhilong Liu, Jiayi Zhang,  Ziheng Liu, Hongyang Du, **Zhe Wang**, Dusit Niyato, Mohsen Guizani, and Bo Ai, ["Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions,"](https://arxiv.org/abs/2307.02827) ***IEEE Wireless Communications*** (IF: 12.9, An1), accepted, 2023.<i><font color="#C93756">  We propose the enhanced paradigm of cell-free XL-MIMO, which incorporates multi-agent reinforcement learning (MARL) to provide a distributed strategy for tackling the problem of high-dimension signal processing and costly energy consumption.</font>
 2. Zhilong Liu, Jiayi Zhang, **Zhe Wang**, Xiaodan Zhang, Huahua Xiao, and Bo Ai, ["Cell-Free Massive MIMO With Mixed-Resolution ADCs and I/Q Imbalance Over Rician Spatially Correlated Channels"](https://zhewang77.github.io/files/Cell-Free_Massive_MIMO_With_Mixed-Resolution_ADCs_and_I_Q_Imbalance_Over_Rician_Spatially_Correlated_Channels.pdf) ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2), vol. 72, no. 7, pp. 9567–9572, Jul. 2023.<i><font color="#C93756"> We investigate the effect of mixed-resolution ADCs deploying at access points and the in-phase and quadrature-phase imbalance (IQI) on the CF mMIMO systems over Rician spatially correlated channels.</font> 
 3. Qiuhao Liu, Yonghao Lin, Jiakang Zheng, **Zhe Wang**, Jiayi Zhang, and Bo Ai, ["Performance Analysis of XL-MIMO-OFDM Systems for High-Speed Train Communications"](https://zhewang77.github.io/files/Performance_Analysis_of_XL-MIMO-OFDM_Systems_for_High-Speed_Train_Communications.pdf) ***IEEE International Conference on Communications (ICC) Workshops***, 2023.<i><font color="#C93756"> We analyze the performance of XL-MIMO-OFDM systems for high-speed train communication using extremely large aperture arrays (ELAAs) in line-of-sight (LoS) scenarios and investigate the factors that
