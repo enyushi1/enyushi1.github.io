@@ -19,23 +19,23 @@ citation: 'Zhe Wang, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo A
 
 
 
-<br/><img src='/images/Paper/Paper11/1.png' width = "500">
+<br/><img src='/images/Paper/Paper11/1.png' width = "700">
 
 Fig. 1: Representative characteristics and application scenarios for next-generation MIMO.
 
-<br/><img src='/images/Paper/Paper11/2.png' width = "400">
+<br/><img src='/images/Paper/Paper11/2.png' width = "700">
 
 Table 1: Overview of generative AI agent: definition, feature, advantage of generative AI agent and life cycle of generative AI agent empowered next-generation MIMO design.
 
-<br/><img src='/images/Paper/Paper11/3.png' width = "400">
+<br/><img src='/images/Paper/Paper11/3.png' width = "800">
 
 Table 2: Overview of next-generation MIMO design and generative AI agent assisted aspects.
 
-<br/><img src='/images/Paper/Paper11/4.png' width = "400">
+<br/><img src='/images/Paper/Paper11/4.png' width = "800">
 
 Fig. 2: Generative AI agent assisted capacity maximization for non-parallel UPA-based XL-MIMO systems.
 
-<br/><img src='/images/Paper/Paper11/5.png' width = "400">
+<br/><img src='/images/Paper/Paper11/5.png' width = "800">
 
 Fig. 3: Generative AI agent assisted EDoF maximization for rectangular UPA-based XL-MIMO systems with various shapes.
 
