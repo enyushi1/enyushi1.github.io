@@ -2,7 +2,7 @@
 title: "Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision"
 excerpt: "We study generative artificial intelligence (AI) agent-enabled next-generation MIMO design. Firstly, we provide an overview of the development, fundamentals, and challenges of the next-generation MIMO. Then, we propose the concept of the generative AI agent, which is capable of generating tailored and specialized contents with the aid of large language model (LLM) and retrieval augmented generation (RAG). Next, we comprehensively discuss the features and advantages of the generative AI agent framework. More importantly, to tackle existing challenges of next-generation MIMO, we discuss generative AI agent-enabled next-generation MIMO design, from the perspective of performance analysis, signal processing, and resource allocation."
 collection: submitted
-permalink: /submitted/2024-04-13-Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision
+permalink: /submitted/2024-04-13-Generative AI Agent for Next-Generation MIMO Design Fundamentals, Challenges, and Vision
 date: 2024-04-13
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2404.08878.pdf'
