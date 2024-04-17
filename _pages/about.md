@@ -16,6 +16,7 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
+1. **[Apr. 2024]** One collaborative paper titled ["Resource Allocation for Near-Field Communications: Fundamentals, Tools, and Outlooks"](https://zhewang77.github.io/files/Resource Allocation for Near-Field Communications Fundamentals, Tools, and Outlooks.pdf) is accepted by ***IEEE Wireless Communications*** (IF: 12.9, An1). The first author is my colleague [Bokai Xu](https://scholar.google.com/citations?user=MADxtRsAAAAJ&hl=en).
 1. **[Dec. 2023]** Our paper titled ["A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"](https://zhewang77.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf) is accepted by ***IEEE Communications Surveys & Tutorials*** (IF: 35.6, An1), which is the highest one in all IEEE journals/magazines!
 2. **[Nov. 2023]** I start my new journey at the School of Computer Science and Engineering, Nanyang Technological University, Singapore, as a visiting Ph.D. Student.
 3. **[Oct. 2023]** I am honored to receive the <font color="#C93756">National Scholarship for Doctoral Students</font>!
