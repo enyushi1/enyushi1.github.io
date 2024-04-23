@@ -82,6 +82,7 @@ Awards
 
 Academic Services
 ======
+1. **TPC member**, IEEE GLOBECOM 2024
 1. **TPC Member**, IEEE PIMRC 2024, Track 2 - Networking & MAC
 2. **TPC Member**, IEEE VTC 2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
 3. **Reviewer**: IEEE JSAC, COMST, TCOM, IOTJ, TIFS, TVT, WCL, and more.
