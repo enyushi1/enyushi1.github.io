@@ -33,7 +33,7 @@ News
 
 Submitted Papers
 ======
-1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Bo Ai, Chau Yuen, Dusit Niyato, Khaled B Letaief, and Xuemin Shen, ["RIS-Aided Cell-Free Massive MIMO Systems for 6G: Fundamentals, System Design, and Applications,"](https://arxiv.org/abs/2310.00263) submitted, 2024.
+1. **Enyu Shi**, Jiayi Zhang, Hongyang Du, Bo Ai, Chau Yuen, Dusit Niyato, Khaled B Letaief, and Xuemin Shen, ["RIS-Aided Cell-Free Massive MIMO Systems for 6G: Fundamentals, System Design, and Applications,"](https://arxiv.org/abs/2310.00263) submitted, 2024.
 
 
 
