@@ -20,13 +20,16 @@ News
 1. **[Apr. 2024]** One collaborative paper titled ["Multi-agent Reinforcement Learning-based Joint Precoding and Phase Shift Optimization for RIS-aided Cell-Free Massive MIMO Systems"](https://enyushi1.github.io/files/ZYY-Multi-agent_Reinforcement_Learning-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2). The first author is my colleague [Yiyang Zhu](https://scholar.google.cz/citations?user=LWh42_8AAAAJ&hl=zh-CN&oi=sra). The paper code sharing on [GitHub](https://github.com/YiyangZYY/MARL-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems).
 2. **[Apr. 2024]** Our paper titled ["RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging"](https://enyushi1.github.io/files/SEY-RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2).
 3. **[Jan. 2024]** I start my new journey at the School of Electrical & Electronic Engineering, Nanyang Technological University, Singapore, as a visiting Ph.D. Student.
-4. **[Apr. 2024]** Our paper titled ["Uplink performance of RIS-aided cell-free massive MIMO system with electromagnetic interference"](https://enyushi1.github.io/files/SEY-Uplink performance of RIS-aided cell-free massive MIMO system with electromagnetic interference.pdf) is accepted by ***IEEE Journal on Selected Areas in Communications*** (IF: 16.4, An1).
+4. **[Aug. 2023]** Our paper titled ["Uplink performance of RIS-aided cell-free massive MIMO system with electromagnetic interference"](https://enyushi1.github.io/files/SEY-Uplink performance of RIS-aided cell-free massive MIMO system with electromagnetic interference.pdf) is accepted by ***IEEE Journal on Selected Areas in Communications*** (IF: 16.4, An1).
 5. **[Oct. 2022]** I am honored to receive the <font color="#C93756">National Scholarship for Doctoral Students</font>!
-6. 
-9. **[Sep. 2021]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.
-10. **[Sep. 2020-Sep. 2021]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a graduate student.
-11. **[Sep. 2019-Sep. 2020]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as an undergraduate advisor.
-12. **[Sep. 2015-Sep. 2019]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as an undergraduate.
+6. **[Oct. 2022]** Our paper titled ["Spatially correlated RIS-aided CF massive MIMO systems with generalized MR combining"](https://enyushi1.github.io/files/SEY-RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2).
+7. **[Aug. 2022]** Our paper titled ["Spatially correlated reconfigurable intelligent surfaces-aided cell-free massive MIMO systems"](https://enyushi1.github.io/files/SEY-RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2).
+8. **[Mar. 2022]** Our paper titled ["Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges"](https://enyushi1.github.io/files/SEY-RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging.pdf) is accepted by ***IEEE Communications Magazine*** (IF: 11.2, An1).
+9. **[Feb. 2022]** Our paper titled ["Decentralized coordinated precoding design in cell-free massive MIMO systems for URLLC"](https://enyushi1.github.io/files/SEY-RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2).
+10. **[Sep. 2021]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.
+11. **[Sep. 2020-Sep. 2021]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a graduate student.
+12. **[Sep. 2019-Sep. 2020]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as an undergraduate advisor.
+13. **[Sep. 2015-Sep. 2019]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as an undergraduate.
 
 Submitted Papers
 ======
