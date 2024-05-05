@@ -26,7 +26,10 @@ News
 6. **[Dec. 2022]** Our paper titled ["Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE"](https://zhewang77.github.io/files/Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE.pdf) is accepted by ***IEEE Transactions on Communications*** (IF: 8.3, An2).
 7. **[Feb. 2022]** Our paper titled ["Uplink Performance of Cell-Free Massive MIMO with Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels"](https://zhewang77.github.io/files/Uplink Performance of Cell-Free Massive MIMO with Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels.pdf) is accepted by ***IEEE Transactions on Wireless Communications*** (IF: 10.4, An2).
 8. **[Feb. 2022]** Our paper titled ["Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels"](https://zhewang77.github.io/files/Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels.pdf) is accepted by ***IEEE Communications Letters*** (IF: 4.1, An3).
-9. **[Sep. 2020]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.
+9. **[Sep. 2021]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.
+10. **[Sep. 2020-Sep. 2021]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a graduate student.
+11. **[Sep. 2019-Sep. 2020]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as an undergraduate advisor.
+12. **[Sep. 2015-Sep. 2019]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as an undergraduate.
 
 Submitted Papers
 ======
