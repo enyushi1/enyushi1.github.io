@@ -1,21 +1,21 @@
 ---
 title: "Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges"
-excerpt: "We analyze the uplink spectral efficiency for CF mMIMO systems over spatially correlated Rician fading channels. This channel is practical due to the consideration of phase-shift and spatial correlation. We investigate the uplink spectral efficiency (SE) with maximum ratio (MR)/local minimum mean squared error (LMMSE) combining and optimal large-scale fading decoding based on the phase-aware MMSE, phase-aware element-wise MMSE, and linear MMSE (LMMSE) estimators."
-permalink: /publications/2020-12-02-Paper-title-Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels
-date: 2020-12-02
-venue: 'IEEE Communications Letters'
-paperurl: 'https://arxiv.org/pdf/2110.05796.pdf'
+excerpt: "We propose the paradigm of reconfigurable intelligent surface (RIS)-aided CF massive MIMO systems for wireless energy transfer (WET), including its potential application scenarios and system architecture. The four-stage transmission procedure is discussed and analyzed to illustrate the practicality of the architecture. We put forward and analyze the hardware design of RIS. In particular, we discuss the three corresponding operating modes and the amalgamation of WET technology and RIS-aided CF massive MIMO."
+permalink: /publications/2020-12-02-Paper-title-Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges
+date: 2022-3-02
+venue: 'IEEE Communications Magazine'
+paperurl: 'https://ieeexplore.ieee.org/document/9743355'
 thumbnail: /images/Paper/Paper5/Fig3.png
-citation: 'Zhe Wang, Jiayi Zhang, Emil Björnson, and Bo Ai, “Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels,” IEEE Communications Letters, vol. 25, no. 4, pp. 1348–1352, Apr. 2021.'
+citation: 'Enyu Shi, Jiayi Zhang, Shuaifei Chen, Jiakang Zheng, Yan Zhang, Derrick Wing Kwan Ng, and Bo Ai, “Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges,” IEEE Communications Magazine, vol. 60, no. 3, pp. 26-32, March 2022.'
 ---
 
 [Download paper here](https://zhewang77.github.io/files/Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels.pdf)
 
 
-**Abstract**: We consider a practical cell-free massive multiple-input-multiple-output (MIMO) system with multi-antenna access points (APs) and spatially correlated Rician fading channels. The significant phase-shift of the line-of-sight component induced by the user equipment movement is modeled randomly. Furthermore, we investigate the uplink spectral efficiency (SE) with maximum ratio (MR)/local minimum mean squared error (LMMSE) combining and optimal large-scale fading decoding based on the phase-aware MMSE, phase-aware element-wise MMSE and linear MMSE (LMMSE) estimators. Then new closed-form SE expressions with MR combining are derived. Numerical results validate our derived expressions and show that the SE benefits from the spatial correlation. It is important to observe that the performance gap between L-MMSE and MR combining increases with the number of antennas per AP and the SE of the LMMSE estimator is lower than that of other estimators due to the lack of phase-shifts knowledge.
+**Abstract**: In future 6G mobile networks, the Internet-of-Everything (IoE) is expected to provide extremely massive connectivity for small battery-powered devices. Indeed, massive devices with limited energy storage capacity impose persistent energy demand hindering the lifetime of communication networks. As a remedy, wireless energy transfer (WET) is a key technology to address these critical energy supply issues. On the other hand, cell-free (CF) massive multiple-input multiple-output (MIMO) systems offer an efficient network architecture to realize the rollout of IoE. In this article, we first propose the paradigm of reconfigurable intelligent surface (RIS)-aided CF massive MIMO systems for WET, including its potential application scenarios and system architecture. The four-stage transmission procedure is discussed and analyzed to illustrate the practicality of the architecture. Then we put forward and analyze the hardware design of RIS. In particular, we discuss the three corresponding operating modes and the amalgamation of WET technology and RIS-aided CF massive MIMO. Representative simulation results are given to confirm the superior performance achieved by our proposed schemes. Also, we investigate the optimal location of deploying multiple RISs to achieve the best system performance. Finally, several important research directions of RIS-aided CF massive MIMO systems with WET are presented to inspire further potential investigation.
 
 
-**Index Terms**: Cell-free massive MIMO, spatially correlated Rician fading, phase-shift, spectral efficiency
+**Index Terms**: Cell-free massive MIMO, reconfigurable intelligent surface, wireless energy transfer, system architecture, hardware design
 
 <br/><img src='/images/Paper/Paper5/11.png' width = "600">
 
