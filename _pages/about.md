@@ -36,9 +36,6 @@ Submitted Papers
 1. **Enyu Shi**, Jiayi Zhang, Hongyang Du, Bo Ai, Chau Yuen, Dusit Niyato, Khaled B Letaief, and Xuemin Shen, ["RIS-Aided Cell-Free Massive MIMO Systems for 6G: Fundamentals, System Design, and Applications,"](https://arxiv.org/abs/2310.00263) submitted, 2024.
 
 
-
-
-
 First-Author Papers
 ======
 **For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
@@ -74,20 +71,20 @@ affect spectral efficiency.</font>
 
 Awards
 ======
-1. **National Scholarship**, Ministry of Education of China, 2023 
-2. **IEEE ICC 2023 Best Paper Awards**, IEEE ComSoc, 2023
-3. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling , Association of Chinese Graduate Education, 2023
-4. **First Prize** in the 17th China Graduate Electronics Design Contest  , Association of Chinese Graduate Education, 2022
-5. **SiNuo Education Fund Scholarship**, Beijing Jiaotong University, 2022 
-6. **National Scholarship**, Ministry of Education of China, 2020
+1. **National Scholarship**, Ministry of Education of China, 2022
+2. **First Prize** in the 17th China Graduate Electronics Design Contest, Association of Chinese Graduate Education, 2022
+3. **Student Travel Grant Award** in IEEE Globecom, 2022
+4. **Outstanding Graduates** in Beijing, 2019
+
 
 
 Academic Services
 ======
 1. **TPC member**, IEEE GLOBECOM 2024
-1. **TPC Member**, IEEE PIMRC 2024, Track 2 - Networking & MAC
+1. **TPC Member**, IEEE ICC 2024 Workshop-NGATFWN
 2. **TPC Member**, IEEE VTC 2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
-3. **Reviewer**: IEEE JSAC, COMST, TCOM, IOTJ, TIFS, TVT, WCL, and more.
+3. **TPC Member**, IEEE VTC 2023-Fall: Radio Access Technology and Heterogeneous Networks
+4. **Reviewer**: IEEE JSAC, TSP, TWC, TCOM, IOTJ, TMC, TGCN, TVT, WCL, and more.
 
 ---
 
