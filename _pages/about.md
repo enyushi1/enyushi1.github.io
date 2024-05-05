@@ -52,25 +52,15 @@ First-Author Papers
 
 Co-Supervised Papers
 ======
-**For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
-1. Qiang Sun, Xiaodi Ji, **Zhe Wang**, Xiaomin Chen, Yongjie Yang, Jiayi Zhang, and Kai-Kit Wong, ["Uplink Performance of Hardware-Impaired Cell-Free Massive MIMO with Multi-Antenna Users and Superimposed Pilots,"](https://zhewang77.github.io/files/Uplink_Performance_of_Hardware-Impaired_Cell-Free_Massive_MIMO_with_Multi-Antenna_Users_and_Superimposed_Pilots.pdf) ***IEEE Transactions on Communications*** (IF: 8.3, An2), vol. 71, no. 11, pp. 6711–6726, Nov. 2023.  
-2. Bokai Xu, **Zhe Wang**,  Huahua Xiao, Jiayi Zhang, Bo Ai, and Derrick Wing Kwan Ng, ["Low-Complexity Precoding for Extremely Large-Scale MIMO Over Non-Stationary Channels,"](https://arxiv.org/abs/2302.00847) ***International Conference on Communications (ICC)***, 2023.  
-3. Hao Lei, **Zhe Wang**, Huahua Xiao, Jiayi Zhang, and Bo Ai, ["Uplink Performance of Cell-Free Extremely Large-Scale MIMO Systems,"](https://arxiv.org/abs/2301.12086) ***International Conference on Communications (ICC)***, 2023.  
-4. Xin Li, Jiayi Zhang, **Zhe Wang**, Bo Ai, and Derrick Wing Kwan Ng, ["Cell-Free Massive MIMO with Multi-Antenna Users over Weichselberger Rician Channels,"](https://arxiv.org/abs/2207.10891) ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2), vol. 71, no. 11, pp. 12368–12373, Nov. 2022.  
-5. Zhilong Liu, Jiayi Zhang, **Zhe Wang**, Bo Ai, and Derrick Wing Kwan Ng, ["Cell-Free Massive MIMO with Low-Resolution ADCs and I/Q Imbalance Over Spatially Correlated Channels,"](https://zhewang77.github.io/files/Cell-Free_Massive_MIMO_with_Low-Resolution_ADCs_and_I_Q_Imbalance_Over_Spatially_Correlated_Channels.pdf) ***IEEE Global Communications Conference (Globecom)***, 2022.
+**For all publications, please refer to Publications or my [google scholar](https://scholar.google.cz/citations?hl=zh-CN&user=FNVbs40AAAAJ&view_op=list_works&sortby=pubdate).**
+
 
 
 
 Collaborative Papers
 ======
-**For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
-4. Bokai Xu, Jiayi Zhang, Hongyang Du, **Zhe Wang**, Yuanwei Liu, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Resource Allocation for Near-Field Communications: Fundamentals, Tools, and Outlooks,"](https://arxiv.org/abs/2310.17868) ***IEEE Wireless Communications*** (IF: 12.9, An1), accepted, 2024. <i><font color="#C93756">We review the basic properties of near-field communications and focus on the corresponding "resource allocation" problems. </font>
-3. Haiquan Lu, Yong Zeng, Changsheng You, Yu Han, Jiayi Zhang, **Zhe Wang**, Zhenjun Dong, Shi Jin, Cheng-Xiang Wang, Tao Jiang, Xiaohu You, and Rui Zhang, ["A Tutorial on Near-Field XL-MIMO Communications Towards 6G,"](https://arxiv.org/abs/2310.11044)  ***IEEE Communications Surveys & Tutorials*** (IF: 35.6, An1), accepted, 2024.<i><font color="#C93756"> We give a comprehensive tutorial overview on near-field XL-MIMO communications, aiming to provide useful guidance for tackling the above challenges.</font>
-1. Zhilong Liu, Jiayi Zhang,  Ziheng Liu, Hongyang Du, **Zhe Wang**, Dusit Niyato, Mohsen Guizani, and Bo Ai, ["Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions,"](https://arxiv.org/abs/2307.02827) ***IEEE Wireless Communications*** (IF: 12.9, An1), accepted, 2023.<i><font color="#C93756">  We propose the enhanced paradigm of cell-free XL-MIMO, which incorporates multi-agent reinforcement learning (MARL) to provide a distributed strategy for tackling the problem of high-dimension signal processing and costly energy consumption.</font>
-2. Zhilong Liu, Jiayi Zhang, **Zhe Wang**, Xiaodan Zhang, Huahua Xiao, and Bo Ai, ["Cell-Free Massive MIMO With Mixed-Resolution ADCs and I/Q Imbalance Over Rician Spatially Correlated Channels"](https://zhewang77.github.io/files/Cell-Free_Massive_MIMO_With_Mixed-Resolution_ADCs_and_I_Q_Imbalance_Over_Rician_Spatially_Correlated_Channels.pdf) ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2), vol. 72, no. 7, pp. 9567–9572, Jul. 2023.<i><font color="#C93756"> We investigate the effect of mixed-resolution ADCs deploying at access points and the in-phase and quadrature-phase imbalance (IQI) on the CF mMIMO systems over Rician spatially correlated channels.</font> 
-3. Qiuhao Liu, Yonghao Lin, Jiakang Zheng, **Zhe Wang**, Jiayi Zhang, and Bo Ai, ["Performance Analysis of XL-MIMO-OFDM Systems for High-Speed Train Communications"](https://zhewang77.github.io/files/Performance_Analysis_of_XL-MIMO-OFDM_Systems_for_High-Speed_Train_Communications.pdf) ***IEEE International Conference on Communications (ICC) Workshops***, 2023.<i><font color="#C93756"> We analyze the performance of XL-MIMO-OFDM systems for high-speed train communication using extremely large aperture arrays (ELAAs) in line-of-sight (LoS) scenarios and investigate the factors that
-affect spectral efficiency.</font>
-4. Enyu Shi, Jiayi Zhang, **Zhe Wang**, Derrick Wing Kwan Ng, and Bo Ai, ["Uplink Performance of RIS-aided Cell-Free Massive MIMO System Over Spatially Correlated Channels,"](https://arxiv.org/abs/2209.13845) ***IEEE Global Communications Conference (Globecom)***, 2022.<i><font color="#C93756"> We consider a practical spatially correlated reconfigurable intelligent surface (RIS)-aided CF mMIMO system with multi-antenna access points over spatially correlated Rician fading channels.</font> 
+**For all publications, please refer to Publications or my [google scholar](https://scholar.google.cz/citations?hl=zh-CN&user=FNVbs40AAAAJ&view_op=list_works&sortby=pubdate).**
+
 
 Awards
 ======
