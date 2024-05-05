@@ -2,7 +2,7 @@
 layout: archive
 title: "Awards"
 permalink: /award/
-author_profile: fluse
+author_profile: true
 ---
 
 Some award certificates are presented.
