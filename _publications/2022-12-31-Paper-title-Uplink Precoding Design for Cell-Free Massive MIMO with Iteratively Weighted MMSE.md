@@ -2,7 +2,7 @@
 title: "Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE"
 excerpt: "To further improve the SE performance for CF mMIMO systems with multi-antenna UE, we design the uplink precoding schemes based on the weighted sum SE maximization. Since the weighted sum SE maximization problem is not jointly over all optimization variables, two efficient uplink precoding schemes based on I-WMMSE algorithms are proposed for two processing schemes investigated."
 collection: publications
-permalink: /publications/2022-12-31-Paper-title-Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMS
+permalink: /publications/2022-12-31-Paper-title-Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE
 date: 2022-12-31
 venue: ' IEEE Transactions on Communications'
 paperurl: 'https://arxiv.org/pdf/2301.02417.pdf'
