@@ -12,7 +12,7 @@ citation: 'Enyu Shi, Jiayi Zhang, Ruisi He, Huiying Jiao, Zhiqin Wang, Bo Ai, De
 
 
 
-[Download paper here](https://enyushi1.github.io/files/SEY-Wireless energy transfer in RIS-aided cell-free massive MIMO systems Opportunities and challenges.pdf)
+[Download paper here](https://enyushi1.github.io/files/SEY-Spatially correlated reconfigurable intelligent surfaces-aided cell-free massive MIMO systems.pdf)
 
 
 **Abstract**: Reconfigurable intelligent surfaces (RISs) and cell-free (CF) massive multiple-input multiple-output (MIMO) are two promising technologies for realizing beyond-fifth generation (5G) networks. In this paper, we study the uplink spectral efficiency (SE) of a practical spatially correlated RISs-aided CF massive MIMO system over Rician fading channels. Specifically, we derive the closed-form expression for characterizing the uplink SE of the system, which shows that increasing the number of RIS elements can improve the system performance. Moreover, the results unveil that the spatial correlation of RIS has a significant impact on the system while leading to the best performance gain at a half wavelength spacing. Finally, the accuracy of our analytical results are verified by Monte-Carlo simulations.
