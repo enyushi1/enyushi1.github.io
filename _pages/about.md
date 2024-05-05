@@ -49,17 +49,14 @@ First-Author Papers
 7. **Enyu Shi**, Jiayi Zhang, Zhe Wang, Derrick Wing Kwan Ng, Bo Ai, ["Uplink performance of RIS-aided cell-free massive MIMO system over spatially correlated channels,"](https://arxiv.org/pdf/2209.13845) ***IEEE Global Communications Conference (Globecom)***, 2022.
 
 
-
-Co-Supervised Papers
-======
-**For all publications, please refer to Publications or my [google scholar](https://scholar.google.cz/citations?hl=zh-CN&user=FNVbs40AAAAJ&view_op=list_works&sortby=pubdate).**
-
-
-
-
 Collaborative Papers
 ======
 **For all publications, please refer to Publications or my [google scholar](https://scholar.google.cz/citations?hl=zh-CN&user=FNVbs40AAAAJ&view_op=list_works&sortby=pubdate).**
+
+1. Yiyang Zhu, **Enyu Shi**, Ziheng Liu, Jiayi Zhang, Bo Ai, ["Uplink performance of high-mobility cell-free massive MIMO-OFDM systems,"](https://arxiv.org/pdf/2201.09622) ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2), early access, 2024.
+2. Jiakang Zheng, Jiayi Zhang, **Enyu Shi**, Jing Jiang, Bo Ai, ["Uplink performance of high-mobility cell-free massive MIMO-OFDM systems,"](https://arxiv.org/pdf/2201.09622) ***IEEE International Conference on Communications (ICC)***, 2022.
+3. Ziheng Liu, Jiayi Zhang, **Enyu Shi**, Zhilong Liu, Dusit Niyato, Bo Ai, ["Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions,"](https://arxiv.org/pdf/2201.09622) ***IEEE Wireless Communications*** (IF: 12.9, An2), submitted, 2024.
+
 
 
 Awards
