@@ -26,10 +26,10 @@ News
 7. **[Aug. 2022]** Our paper titled ["Spatially correlated reconfigurable intelligent surfaces-aided cell-free massive MIMO systems"](https://enyushi1.github.io/files/SEY-Spatially correlated reconfigurable intelligent surfaces-aided cell-free massive MIMO systems.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2).
 8. **[Mar. 2022]** Our paper titled ["Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges"](https://enyushi1.github.io/files/SEY-Wireless energy transfer in RIS-aided cell-free massive MIMO systems Opportunities and challenges.pdf) is accepted by ***IEEE Communications Magazine*** (IF: 11.2, An1).
 9. **[Feb. 2022]** Our paper titled ["Decentralized coordinated precoding design in cell-free massive MIMO systems for URLLC"](https://enyushi1.github.io/files/SEY-Decentralized coordinated precoding design in cell-free massive MIMO systems for URLLC.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2).
-10. **[Sep. 2021]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a Ph.D. candidate.
-11. **[Sep. 2020-Sep. 2021]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as a graduate student.
-12. **[Sep. 2019-Sep. 2020]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as an undergraduate advisor.
-13. **[Sep. 2015-Sep. 2019]** I joined the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU) as an undergraduate.
+10. **[Sep. 2021-]** Ph.D. candidate in the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU).
+11. **[Sep. 2020-Sep. 2021]** Master student in the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU).
+12. **[Sep. 2019-Sep. 2020]** Undergraduate advisor in the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU).
+13. **[Sep. 2015-Sep. 2019]** Undergraduate student in the School of Electronic and Information Engineering,  Beijing Jiaotong University (BJTU).
 
 Submitted Papers
 ======
