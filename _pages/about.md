@@ -18,7 +18,7 @@ News
 ======
 
 1. **[Apr. 2024]** One collaborative paper titled ["Multi-agent Reinforcement Learning-based Joint Precoding and Phase Shift Optimization for RIS-aided Cell-Free Massive MIMO Systems"](https://enyushi1.github.io/files/ZYY-Multi-agent_Reinforcement_Learning-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2). The first author is my colleague [Yiyang Zhu](https://scholar.google.cz/citations?user=LWh42_8AAAAJ&hl=zh-CN&oi=sra). The paper code sharing on [GitHub](https://github.com/YiyangZYY/MARL-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems).
-2. **[Apr. 2024]** Our paper titled ["RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging"](https://enyushi1.github.io/files/) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2).
+2. **[Apr. 2024]** Our paper titled ["RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging"](https://enyushi1.github.io/files/SEY-RIS-Aided Cell-Free Massive MIMO Systems With Channel Aging.pdf) is accepted by ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2).
 3. **[Jan. 2024]** I start my new journey at the School of Electrical & Electronic Engineering, Nanyang Technological University, Singapore, as a visiting Ph.D. Student.
 4. **[Oct. 2022]** I am honored to receive the <font color="#C93756">National Scholarship for Doctoral Students</font>!
 5. 
