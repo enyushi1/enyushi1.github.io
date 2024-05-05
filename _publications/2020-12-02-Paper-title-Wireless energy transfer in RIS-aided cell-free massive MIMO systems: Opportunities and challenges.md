@@ -1,5 +1,5 @@
 ---
-title: "Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels"
+title: "Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges"
 excerpt: "We analyze the uplink spectral efficiency for CF mMIMO systems over spatially correlated Rician fading channels. This channel is practical due to the consideration of phase-shift and spatial correlation. We investigate the uplink spectral efficiency (SE) with maximum ratio (MR)/local minimum mean squared error (LMMSE) combining and optimal large-scale fading decoding based on the phase-aware MMSE, phase-aware element-wise MMSE, and linear MMSE (LMMSE) estimators."
 permalink: /publications/2020-12-02-Paper-title-Uplink performance of cell-free massive MIMO over spatially correlated Rician fading channels
 date: 2020-12-02
