@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhe Wang's Website"
+title                    : "Enyu Shi's Website"
 title_separator          : "-"
-name                     : &name "Zhe Wang"
+name                     : &name "Enyu Shi"
 description              : &description "Ph.D. Candidate"
 url                      : https://enyushi1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,17 +25,17 @@ repository               : "enyushi1/enyushi1.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : "Zhe Wang"
+  name             : "Enyu Shi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate, Beijing Jiaong University; Visiting Student, Nanyang Technological University"
   location         : "China"
   employer         : "Beijing Jiaong University"
   uri              : 
-  email            : "zhewang_77@bjtu.edu.cn" 
+  email            : "enyushi@bjtu.edu.cn" 
 
   # Academic websites
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.cz/citations?user=FNVbs40AAAAJ&hl=zh-CN&oi=ao"
   impactstory      : 
   orcid            : "https://orcid.org/0000-0001-5745-7640"
   pubmed           : 
