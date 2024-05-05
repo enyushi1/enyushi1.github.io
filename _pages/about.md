@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhe Wang (王者)"
+title: "Enyu Shi"
 author_profile: true
 redirect_from: 
   - /about/
