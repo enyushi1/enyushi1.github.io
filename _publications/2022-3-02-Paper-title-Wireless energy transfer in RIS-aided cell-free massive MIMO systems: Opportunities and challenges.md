@@ -1,7 +1,7 @@
 ---
 title: "Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges"
 excerpt: "We propose the paradigm of reconfigurable intelligent surface (RIS)-aided CF massive MIMO systems for wireless energy transfer (WET), including its potential application scenarios and system architecture. The four-stage transmission procedure is discussed and analyzed to illustrate the practicality of the architecture. We put forward and analyze the hardware design of RIS. In particular, we discuss the three corresponding operating modes and the amalgamation of WET technology and RIS-aided CF massive MIMO."
-permalink: /publications/2022-3-02-Paper-title-Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges.md
+permalink: /publications/2022-3-02-Paper-title-Wireless energy transfer in RIS-aided cell-free massive MIMO systems: Opportunities and challenges
 date: 2022-3-02
 venue: 'IEEE Communications Magazine'
 paperurl: 'https://ieeexplore.ieee.org/document/9743355'
