@@ -46,7 +46,7 @@ First-Author Papers
 4. **Enyu Shi**, Jiayi Zhang, Ruisi He, Huiying Jiao, Zhiqin Wang, Bo Ai, Derrick Wing Kwan Ng, ["Spatially correlated reconfigurable intelligent surfaces-aided cell-free massive MIMO systems,"](https://arxiv.org/pdf/2306.08278) ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2), vol. 71, no. 8, pp. 9073-9077, Aug. 2022.
 5. **Enyu Shi**, Jiayi Zhang, Ying Du, Zhiqin Wang, Bo Ai, Derrick Wing Kwan Ng, ["Spatially correlated RIS-aided CF massive MIMO systems with generalized MR combining,"](https://ieeexplore.ieee.org/abstract/document/9806349) ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2), vol. 71, no. 10, pp. 11245-11250, Oct. 2022.
 6. **Enyu Shi**, Jing Zhang, Jiayi Zhang, Derrick Wing Kwan Ng, Bo Ai, ["Decentralized coordinated precoding design in cell-free massive MIMO systems for URLLC,"](https://arxiv.org/pdf/2209.14504) ***IEEE Transactions on Vehicular Technology*** (IF: 6.8, An2), vol. 72, no. 2, pp. 2638-2642, Feb. 2023.
-7. **Enyu Shi**, Jiayi Zhang, Zhe Wang, Derrick Wing Kwan Ng, Bo Ai, ["Uplink performance of RIS-aided cell-free massive MIMO system over spatially correlated channels,"](https://arxiv.org/pdf/2209.14504) ***IEEE Global Communications Conference (Globecom)***, 2022.
+7. **Enyu Shi**, Jiayi Zhang, Zhe Wang, Derrick Wing Kwan Ng, Bo Ai, ["Uplink performance of RIS-aided cell-free massive MIMO system over spatially correlated channels,"](https://arxiv.org/pdf/2209.13845) ***IEEE Global Communications Conference (Globecom)***, 2022.
 
 
 
