@@ -33,10 +33,8 @@ News
 
 Submitted Papers
 ======
-1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision,"](https://arxiv.org/abs/2404.08878) submitted, 2024.
-1. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Hongyang Du, Dusit Niyato, Bo Ai, and Derrick Wing Kwan Ng, ["Analytical Framework for Effective Degrees of
-Freedom in Near-Field XL-MIMO,"](https://arxiv.org/abs/2401.15280) submitted, 2024.
-2. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Huahua Xiao, Dusit Niyato, and Bo Ai, "Effective Degree of Freedom for Near-Field Plane-Based XL-MIMO with Tri-Polarization," submitted, 2024.
+1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Bo Ai, Chau Yuen, Dusit Niyato, Khaled B Letaief, and Xuemin Shen, ["RIS-Aided Cell-Free Massive MIMO Systems for 6G: Fundamentals, System Design, and Applications,"](https://arxiv.org/abs/2310.00263) submitted, 2024.
+
 
 
 
