@@ -1,11 +1,11 @@
 ---
-title: "A Tutorial on Near-Field XL-MIMO Communications Towards 6G"
+title: "RIS-Aided Cell-Free Massive MIMO Systems for 6G: Fundamentals, System Design, and Applications"
 excerpt: "We give a comprehensive tutorial overview on near-field XL-MIMO communications, aiming to provide useful guidance for tackling the above challenges. First, the basic near-field modelling for XL-MIMO is established, by considering the new characteristics of non-uniform spherical wave (NUSW) and spatial non-stationarity. Next, based on the near-field modelling, the performance analysis of XL-MIMO is presented, including the near-field signal-to-noise ratio (SNR) scaling laws, beam focusing pattern, achievable rate, and degrees-of-freedom (DoF). Furthermore, various XL-MIMO design issues such as near-field beam codebook, beam training, channel estimation, and delay alignment modulation (DAM) transmission are elaborated. Finally, we point out promising directions to inspire future research on near-field XL-MIMO communications."
 collection: submitted
 permalink: /submitted/2024-02-24-A tutorial on near-field XL-MIMO communications towards 6G
 date: 2024-01-27
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2310.11044.pdf'
+paperurl: 'https://arxiv.org/abs/2310.00263'
 thumbnail: /images/Paper/Paper9/Fig3.png
 citation: 'Haiquan Lu, Yong Zeng, Changsheng You, Yu Han, Jiayi Zhang, Zhe Wang, Zhenjun Dong, Shi Jin, Cheng-Xiang Wang, Tao Jiang, Xiaohu You, and Rui Zhang, "A Tutorial on Near-Field XL-MIMO Communications Towards 6G," arXiv:2310.11044, 2023. 
 
